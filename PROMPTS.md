@@ -127,3 +127,26 @@ with that sentence.
   rather than trusting the screen that said it worked.
 - **Deployed to Vercel with no white screen.** Production URL tested in a
   private window and on a phone: opens for a stranger, no sign-in.
+
+
+---
+
+
+## Prompt 3 — the wrong year
+
+```
+The header shows the year 2025. The current year is 2026. Change the week
+range in the data file to a week in September 2026. Change nothing else.
+```
+
+**What came back:** The header now reads a week in September 2026. One data
+file touched, nothing else moved — the constraint sentence I had left off
+Prompt 2 was on this one.
+
+**What I changed next and why:** Nothing. But this is the entry I would keep if
+I could keep only one. The wrong year was visible on my screen from the first
+render, through every screenshot, through the push and the deploy, and I did
+not see it. My own Goal item said "the current week's date range" — I gave the
+model a category to decide and then had nothing to check its answer against.
+The guardrail I take forward is not about years: it is that every numbered Goal
+item has to name a value I can verify without thinking.

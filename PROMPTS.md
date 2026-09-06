@@ -7,6 +7,10 @@
 - **Live link:** https://tutorslot-nu.vercel.app/
 - **Repository:** https://github.com/Jaylo-dang/tutorslot
 - **Built with:** Google AI Studio (Build), Gemini 3.8 Flash
+- **Note:** Prompts 1–3 below were sent to Gemini in AI Studio. The wording of
+  Prompt 1 was drafted with an assistant from my own specification; see
+  REFLECTION.md Q2 for the division of labour.
+
 ---
 
 ## Prompt 1 — the master prompt (R·G·O·G·C)

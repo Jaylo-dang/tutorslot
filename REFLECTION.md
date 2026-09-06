@@ -61,6 +61,14 @@ and I never checked the claim sitting underneath it. The two-step workflow in Q1
 is something I only articulated after the app was already deployed. No agent
 could have caught that, because it was never a coding question.
 
+I should be precise about the division of labour, since the brief says the
+specification has to be mine. The user, the job, and the decision to build one
+screen rather than three were my choices. The translation of those into an
+R·G·O·G·C prompt, and much of the drafting of these two Markdown files, came out
+of working with an assistant. I state this plainly because the alternative —
+presenting all of it as mine — would contradict the one thing this reflection is
+supposed to be about.
+
 ## Q3 — In, on, or out of the loop: where was my judgment actually needed?
 
 **Where my judgment changed the outcome.** Three times, and all three because

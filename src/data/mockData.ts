@@ -1,6 +1,6 @@
 import { Subject, DayOfWeek, TutorSlot } from '../types';
 
-export const CURRENT_WEEK_DATE_RANGE = 'Mon 7 Sep – Sun 13 Sep';
+export const CURRENT_WEEK_DATE_RANGE = 'Mon 7 Sep – Sun 13 Sep 2026';
 
 export const SUBJECT_OPTIONS: Subject[] = [
   'Statistics',
